@@ -1,4 +1,4 @@
-# Project-Save
+# Project-Save - SwiftUI
 
 
 This repository contains a sample project built using SwiftUI and Core Data, aimed at showcasing the integration of these technologies to create a project management app. Users can create and manage projects by selecting photos from the gallery and applying filters. The project details are then stored using Core Data.
