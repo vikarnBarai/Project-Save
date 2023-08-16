@@ -1,4 +1,4 @@
-# Project-Save - SwiftUI
+
 
 
 This repository contains a sample project built using SwiftUI and Core Data, aimed at showcasing the integration of these technologies to create a project management app. Users can create and manage projects by selecting photos from the gallery and applying filters. The project details are then stored using Core Data.
@@ -19,6 +19,10 @@ Core Data
 project-Save requires iOS 16.0 or later. If you are developer, you can set its deployment target to lower iOS version if needed.
 If your XCode 14.0 is not available, you can change `deployment target` to lower iOS version.
 
+## Screenshots
+![00](https://github.com/vikarnBarai/Project-Save/assets/45677528/28658e52-6287-41ae-927d-b30e7c4d87fb)
+![IMG_0537](https://github.com/vikarnBarai/Project-Save/assets/45677528/49bb5e0e-ed7b-482b-a54d-bb34c833b3aa)
+![IMG_0536](https://github.com/vikarnBarai/Project-Save/assets/45677528/f4a4596c-a6d4-41f5-afa8-3cd0b566e124)# Project-Save - SwiftUI
 
 ## Style and conventions - SwiftLint
 A script runs when building the app that executes SwiftLint to enforce style & conventions to the code.
