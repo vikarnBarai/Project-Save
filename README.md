@@ -9,11 +9,11 @@ Create new projects by selecting photos from the gallery.
 Apply filters to customize and enhance project images.
 Store and manage project details using Core Data.
 ## Concepts Used Here
-Core Data
 - Clean Architecture
 - MVVM
 - SwiftLint
 - SwiftUI
+- CoreData
 
 ## How to run
 project-Save requires iOS 16.0 or later. If you are developer, you can set its deployment target to lower iOS version if needed.
